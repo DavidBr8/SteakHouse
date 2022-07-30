@@ -1,0 +1,57 @@
+@font-face {
+	font-family: 'sofia_proextralight';
+	src: url('../font/sofia_pro_extralight_az-webfont.woff2') format('woff2'),
+		url('../font/sofia_pro_extralight_az-webfont.woff') format('woff');
+	font-weight: 200;
+	font-style: light;
+}
+
+@font-face {
+	font-family: 'sofia_prolight';
+	src: url('../font/sofia_pro_light_az-webfont.woff2') format('woff2'),
+		url('../font/sofia_pro_light_az-webfont.woff') format('woff');
+	font-weight: light;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'sofia_pro';
+	src: url('../font/sofia_pro_regular_az-webfont.woff2') format('woff2'),
+		url('../font/sofia_pro_regular_az-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'sofia_proitalic';
+	src: url('../font/sofia_pro_regular_italic_az-webfont.woff2') format('woff2'),
+		url('../font/sofia_pro_regular_italic_az-webfont.woff') format('woff');
+	font-weight: 400;
+	font-style: italic;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'sofia_promedium';
+	src: url('../font/sofia_pro_medium_az-webfont.woff2') format('woff2'),
+		url('../font/sofia_pro_medium_az-webfont.woff') format('woff');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'sofia_prosemibold';
+	src: url('../font/sofia_pro_semi_bold_az-webfont.woff2') format('woff2'),
+		url('../font/sofia_pro_semi_bold_az-webfont.woff') format('woff');
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'sofia_probold';
+	src: url('../font/sofia_pro_bold_az-webfont.woff2') format('woff2'),
+		url('../font/sofia_pro_bold_az-webfont.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
